@@ -21,3 +21,8 @@ O projeto é implementado em **C#**, utilizando o .NET para compilar e executar 
 2. Execute o programa e interaja com o menu para acessar as funcionalidades disponíveis.
 
 Este projeto demonstra a aplicação de conceitos básicos de manipulação de dados e cálculos em C#.
+
+## Créditos
+
+Desenvolvido por Mateus S.  
+GitHub: [Matz-Turing](https://github.com/Matz-Turing)
